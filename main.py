@@ -93,6 +93,3 @@ class Users:
             object_['error'] = 'The page cannot load.'
 
         return json.dumps(object_)
-
-getTiktokUser = Users()
-print(getTiktokUser.details("@USERNAME"))
