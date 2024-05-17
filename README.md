@@ -54,4 +54,3 @@ And here's a sample JSON response and explanation of each parameter:
   - `video`: Number of videos posted by the user.
   - `like`: Number of likes received by the user.
 
-Feel free to adjust and add more details as needed.
