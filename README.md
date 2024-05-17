@@ -3,7 +3,7 @@
 First, you need to create a `Users` object from the `Users` class in the `tiktok_users` module:
 
 ```python
-from tiktok_users import Users
+from khang import Users
 
 getTiktokUser = Users()
 ```
