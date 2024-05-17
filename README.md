@@ -1,6 +1,6 @@
 
 
-First, you need to create a `Users` object from the `Users` class in the `tiktok_users` module:
+First, you need to create a `Users` object from the `Users` class in the `khang` module:
 
 ```python
 from khang import Users
